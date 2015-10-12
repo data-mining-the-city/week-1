@@ -1,13 +1,13 @@
 # DATA MINING THE CITY
 # WEEK-1 ASSIGNMENT
 
-# This iassingment will get you familiar with the basic elements of Python by programming a simple card game.
+# This assignment will get you familiar with the basic elements of Python by programming a simple card game.
 # We will create a custom class to represent each player in the game, which will store information about their
 # current pot, as well as a series of methods defining how they play the game.
 # We will also build several functions to control the flow of the game and get data back at the end.
 
 # I have included a rough framework of the solution here along with comments along the way to help you
-# complete the assingment. Places where you should write code are denoted by the [] brackets and CAPITAL TEXT.
+# complete the assignment. Places where you should write code are denoted by the [] brackets and CAPITAL TEXT.
 # You should be able to work directly in this document, and as you go run the program through the Python interpreter 
 # to check your work. A copy of the expected print out of the finished program is included in the week-1 repository.
 
